@@ -7,7 +7,7 @@ This project demonstrates an end-to-end data analysis workflow using Microsoft E
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Simple_View.png)
 
 ---
 
